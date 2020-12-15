@@ -3,10 +3,10 @@
 ## Repository contents
 This github repository features a Jupyter Notebook file "EmergingTech-Tasks.ipynb" which outlines 4 research tasks assigned to us by our lecturer.
 The four tasks include:
-- Calculating the Square Root of 2, to 100 decimal places without using a predefined "Square root" function.
-- 2
-- 3
-- 4
+- Create a function to calculate the Square Root of 2, to 100 decimal places without using a predefined "Square root" function.
+- Use ```scipy.stats``` to verify the chi-squared value and p-value of a specific table.
+- Outline the differences between the excel functions; ```STDEV.S``` and ```STDEV.P```. Demonstrate that the function ```STDEV.S``` provides a better estimate calculation for the standard deviation of a population when performed on a sample.
+- Use ```scikit-learn``` to apply k-means clustering to Fisher's famous Irish data set.
 
 ## How to run a Jupyter Notebook file (.ipynb) locally.
 To run a Jupyter notebook file, in this case, "EmergingTech-Tasks.ipynb", you must:
